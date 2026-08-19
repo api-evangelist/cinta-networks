@@ -39,7 +39,7 @@ x-status-evidence: 'cintanetworks.com has no DNS A or NS records as of 2026-07-2
   Machine captures show real company content through 2002-03 and a parked domain-search page
   from 2004 onward, with the last capture on 2007-11-30.'
 x-last-known-website: http://www.cintanetworks.com/
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:
